@@ -1,0 +1,42 @@
+/* Reset styles */
+body, h1, h2, h3, p, ul, li {
+    margin: 0;
+    padding: 0;
+  }
+  body {
+    font-family: Arial, sans-serif;
+  }
+  
+  /* Header styles */
+  header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1rem;
+    background-color: #3a9d9a;
+  }
+  .logo {
+    display: flex;
+    align-items: center;
+  }
+  .logo img {
+    margin-right: 0.5rem;
+  }
+  .logo h1 {
+    color: #ffffff;
+  }
+  
+  /* Main content styles */
+  .full-page-image {
+    position: relative;
+    background-image: url('image.jpg');
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+  }
+  .weather-info {
+    position: absolute;
+    top: 1rem;
+    right: 1rem;
+    background-color: rgba(255, 255, 255, 0.8);
+  
