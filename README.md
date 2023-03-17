@@ -14,7 +14,7 @@ Tehnologii utilizate
 - HTML5
 - CSS3
 
-#Cum să contribuiți
+# Cum să contribuiți
 
 Dacă doriți să contribuiți la dezvoltarea și îmbunătățirea acestui site web, vă rugăm să urmați pașii de mai jos:
 
@@ -24,10 +24,10 @@ Testați modificările înainte de a crea o cerere de tragere (pull request).
 După ce ați finalizat modificările, creați o cerere de tragere în acest repository, descriind modificările efectuate și scopul acestora.
 Vă rugăm să respectați standardele de codificare și să vă asigurați că modificările dvs. nu afectează în mod negativ funcționarea site-ului.
 
-#Licență
+# Licență
 
 Acest proiect este distribuit sub licența MIT License. Consultați fișierul LICENSE.md pentru informații detaliate.
 
-#Contact
+# Contact
 
 Dacă aveți întrebări sau sugestii legate de acest proiect, vă rugăm să contactați APMTC Runcu prin intermediul informațiilor de contact disponibile pe site-ul web oficial.
