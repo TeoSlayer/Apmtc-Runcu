@@ -1,3 +1,4 @@
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 # APMTC Runcu - Website
 
 Acest repository conține codul sursă și resursele pentru website-ul oficial al Asociației de Protecție a Mediului, Turism și Cinegetică Runcu (APMTC Runcu). Acest site web are scopul de a informa comunitatea și vizitatorii despre misiunea, proiectele și activitățile pe care le întreprinde APMTC Runcu pentru a proteja și conserva mediul înconjurător, precum și a promova turismul și cinegetica în mod responsabil în zona Runcu.
